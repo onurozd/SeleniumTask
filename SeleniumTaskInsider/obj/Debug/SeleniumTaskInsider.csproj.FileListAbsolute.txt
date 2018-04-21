@@ -1,0 +1,8 @@
+c:\users\golgi\documents\visual studio 2015\Projects\SeleniumTaskInsider\SeleniumTaskInsider\bin\Debug\SeleniumTaskInsider.exe.config
+c:\users\golgi\documents\visual studio 2015\Projects\SeleniumTaskInsider\SeleniumTaskInsider\bin\Debug\SeleniumTaskInsider.exe
+c:\users\golgi\documents\visual studio 2015\Projects\SeleniumTaskInsider\SeleniumTaskInsider\bin\Debug\SeleniumTaskInsider.pdb
+c:\users\golgi\documents\visual studio 2015\Projects\SeleniumTaskInsider\SeleniumTaskInsider\bin\Debug\WebDriver.dll
+c:\users\golgi\documents\visual studio 2015\Projects\SeleniumTaskInsider\SeleniumTaskInsider\bin\Debug\WebDriver.xml
+c:\users\golgi\documents\visual studio 2015\Projects\SeleniumTaskInsider\SeleniumTaskInsider\obj\Debug\SeleniumTaskInsider.csprojResolveAssemblyReference.cache
+c:\users\golgi\documents\visual studio 2015\Projects\SeleniumTaskInsider\SeleniumTaskInsider\obj\Debug\SeleniumTaskInsider.exe
+c:\users\golgi\documents\visual studio 2015\Projects\SeleniumTaskInsider\SeleniumTaskInsider\obj\Debug\SeleniumTaskInsider.pdb
